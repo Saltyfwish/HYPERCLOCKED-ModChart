@@ -1,0 +1,142 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "@HYPERCLOCKED",
+  "_songSubName" : "",
+  "_songAuthorName" : "Schwank",
+  "_levelAuthorName" : "Salty",
+  "_beatsPerMinute" : 160,
+  "_previewStartTime" : 30,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "cover.jpg",
+  "_songFilename" : "HYPERCLOCKED.ogg",
+  "_environmentName" : "DefaultEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+  ],
+  "_colorSchemes" : [
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.11.793"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Easy",
+          "_difficultyRank" : 1,
+          "_beatmapFilename" : "EasyStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "notemods so i can acually see",
+            "_settings" : {
+              "_graphics" : {
+                "_mirrorGraphicsSettings" : 1,
+                "_maxShockwaveParticles" : 0
+              },
+              "_playerOptions" : {
+                "_hideNoteSpawnEffect" : true,
+                "_environmentEffectsFilterDefaultPreset" : "AllEffects",
+                "_environmentEffectsFilterExpertPlusPreset" : "AllEffects"
+              },
+              "_environments" : {
+                "_overrideEnvironments" : false
+              },
+              "_chroma" : {
+                "_disableChromaEvents" : false,
+                "_disableEnvironmentEnhancements" : false,
+                "_disableNoteColoring" : false
+              }
+            },
+            "_requirements" : [
+              "Chroma",
+              "Mapping Extensions",
+              "Noodle Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_settings" : {
+              "_graphics" : {
+                "_mirrorGraphicsSettings" : 1,
+                "_maxShockwaveParticles" : 0
+              },
+              "_playerOptions" : {
+                "_hideNoteSpawnEffect" : true,
+                "_environmentEffectsFilterDefaultPreset" : "AllEffects",
+                "_environmentEffectsFilterExpertPlusPreset" : "AllEffects"
+              },
+              "_environments" : {
+                "_overrideEnvironments" : false
+              },
+              "_chroma" : {
+                "_disableChromaEvents" : false,
+                "_disableEnvironmentEnhancements" : false,
+                "_disableNoteColoring" : false
+              }
+            },
+            "_requirements" : [
+              "Chroma",
+              "Mapping Extensions",
+              "Noodle Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_settings" : {
+              "_graphics" : {
+                "_mirrorGraphicsSettings" : 1,
+                "_maxShockwaveParticles" : 0
+              },
+              "_playerOptions" : {
+                "_hideNoteSpawnEffect" : true,
+                "_environmentEffectsFilterDefaultPreset" : "AllEffects",
+                "_environmentEffectsFilterExpertPlusPreset" : "AllEffects"
+              },
+              "_environments" : {
+                "_overrideEnvironments" : false
+              },
+              "_chroma" : {
+                "_disableChromaEvents" : false,
+                "_disableEnvironmentEnhancements" : false,
+                "_disableNoteColoring" : false
+              }
+            },
+            "_requirements" : [
+              "Chroma",
+              "Mapping Extensions",
+              "Noodle Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

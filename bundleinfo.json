@@ -1,0 +1,764 @@
+{
+  "materials": {
+    "cuzvhsbarsucks": {
+      "path": "assets/materials/cuzvhsbarsucks.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_SplitAmount": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorR": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorG": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorB": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MoveZ": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "flash": {
+      "path": "assets/materials/flash.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_SplitAmount": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlowColor": {
+          "value": [
+            1.0,
+            0.8,
+            0.5,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_GlowStrength": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlowSize": {
+          "value": 0.53,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MoveZ": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Transparency": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "words": {
+      "path": "assets/materials/words.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_SplitAmount": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorR": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorG": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorB": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 0.102,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MoveZ": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "bloom": {
+      "path": "assets/shaders/bloom.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_BloomThreshold": {
+          "value": 0.612,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BloomIntensity": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "butwhore": {
+      "path": "assets/shaders/butwhore.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitchIntensity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Threshold": {
+          "value": 0.926,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LeftStretchAmount": {
+          "value": 0.0574,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RightStretchAmount": {
+          "value": 0.0013,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_DisplacementStrength": {
+          "value": 3.46,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "dontbreakplease": {
+      "path": "assets/shaders/dontbreakplease.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_DuplicationAmount": {
+          "value": 100.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "dupe2": {
+      "path": "assets/shaders/dupe2.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        }
+      }
+    },
+    "fried": {
+      "path": "assets/shaders/fried.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Contrast": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Hue": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Saturation": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Brightness": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HSVRangeMin": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HSVRangeMax": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "glitchy": {
+      "path": "assets/shaders/glitchy.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitchMultiplier": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Resolution": {
+          "value": 1024.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "intro": {
+      "path": "assets/shaders/intro.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitchIntensity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Threshold": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LeftStretchAmount": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RightStretchAmount": {
+          "value": 0.0636,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_DisplacementStrength": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "moreglitch": {
+      "path": "assets/shaders/moreglitch.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitchMultiplier": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Resolution": {
+          "value": 1024.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "picturemat": {
+      "path": "assets/shaders/picturemat.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Old1": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Old2": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Old3": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Old4": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_4": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CropLeft": {
+          "value": 0.278,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CropRight": {
+          "value": 0.272,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ZMove": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "pixel": {
+      "path": "assets/shaders/pixel.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitchIntensity": {
+          "value": 5.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Threshold": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TopStretchAmount": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BottomStretchAmount": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_DisplacementStrength": {
+          "value": 3.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "pixelsort": {
+      "path": "assets/shaders/pixelsort.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitchAmount": {
+          "value": 0.556,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SortDirection": {
+          "value": 0.735,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitchSpeed": {
+          "value": 5.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SortThreshold": {
+          "value": 0.165,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "sepscreen": {
+      "path": "assets/shaders/sepscreen.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_TopOffset": {
+          "value": 0.124,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BottomOffset": {
+          "value": -0.142,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LeftOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RightOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "split": {
+      "path": "assets/shaders/split.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_TopOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BottomOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LeftOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RightOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GapSizeX": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GapSizeY": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "vhs": {
+      "path": "assets/shaders/vhs.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_ChromaticAberration": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Mute": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Pixelate": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Scanline": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Gap": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Noise": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Limit": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Shake": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Bars": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Bars2": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Seed": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    }
+  },
+  "prefabs": {
+    "bars": "assets/assetbundles/bars.prefab",
+    "camerayeah": "assets/assetbundles/camerayeah.prefab",
+    "camscreen": "assets/assetbundles/camscreen.prefab",
+    "cube": "assets/assetbundles/cube.prefab",
+    "dogshit": "assets/assetbundles/dogshit.prefab",
+    "flash": "assets/assetbundles/flash.prefab",
+    "mirr": "assets/assetbundles/mirr.prefab",
+    "mirrorthing": "assets/assetbundles/mirrorthing.prefab",
+    "a": "assets/assetbundles/noteveryone/a.prefab",
+    "everyone": "assets/assetbundles/noteveryone/everyone.prefab",
+    "house": "assets/assetbundles/noteveryone/house.prefab",
+    "its": "assets/assetbundles/noteveryone/its.prefab",
+    "music": "assets/assetbundles/noteveryone/music.prefab",
+    "not": "assets/assetbundles/noteveryone/not.prefab",
+    "spiritual": "assets/assetbundles/noteveryone/spiritual.prefab",
+    "thing": "assets/assetbundles/noteveryone/thing.prefab",
+    "understands": "assets/assetbundles/noteveryone/understands.prefab",
+    "backshots": "assets/assetbundles/person/backshots.prefab",
+    "person": "assets/assetbundles/person/person.prefab",
+    "picture": "assets/assetbundles/person/picture.prefab",
+    "render": "assets/assetbundles/person/render.prefab",
+    "plat": "assets/assetbundles/plat.prefab",
+    "stinky (1)": "assets/assetbundles/stinky (1).prefab",
+    "stinky": "assets/assetbundles/stinky.prefab",
+    "the thing": "assets/assetbundles/the thing.prefab",
+    "the thing2": "assets/assetbundles/the thing2.prefab",
+    "uhoh (1)": "assets/assetbundles/uhoh (1).prefab",
+    "uhoh": "assets/assetbundles/uhoh.prefab",
+    "warning": "assets/assetbundles/warning.prefab",
+    "warning2": "assets/assetbundles/warning2.prefab",
+    "warningmes": "assets/assetbundles/warningmes.prefab",
+    "dance": "assets/assetbundles/yo/dance.prefab",
+    "give": "assets/assetbundles/yo/give.prefab",
+    "me": "assets/assetbundles/yo/me.prefab",
+    "some": "assets/assetbundles/yo/some.prefab",
+    "thing (1)": "assets/assetbundles/yo/thing.prefab",
+    "to": "assets/assetbundles/yo/to.prefab",
+    "yo": "assets/assetbundles/yo/yo.prefab"
+  },
+  "bundleFiles": [
+    "C:/Users/0_0/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/HYPERCLOCKED/bundleWindows2021.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2021": 3068314556
+  },
+  "isCompressed": false
+}
