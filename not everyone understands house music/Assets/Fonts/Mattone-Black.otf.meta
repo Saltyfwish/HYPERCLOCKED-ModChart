@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ef06d0c8c27b9624ea403ed24da3b521
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mattone
+  fontNames:
+  - Mattone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a67aaac68710a5d479ba25a4e6bd103f, type: 3}
+  - {fileID: 12800000, guid: 6bd6f2ca0881fcb47b14d6784df955c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
